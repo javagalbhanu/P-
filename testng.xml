@@ -1,0 +1,9 @@
+<suite name="Suite" parallel="none">
+  <test name="Test">
+  <parameter name="city" value="Bengaluru"/>
+  <parameter name="area" value="BTR"/>
+    <classes>
+      <class name="qsp.Demo"/>
+    </classes>
+  </test>
+</suite>
